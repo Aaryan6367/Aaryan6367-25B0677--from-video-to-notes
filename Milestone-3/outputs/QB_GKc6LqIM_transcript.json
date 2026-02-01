@@ -1,0 +1,1757 @@
+[
+    {
+        "text": "forget about nodes color wheels and all",
+        "start": 0.12,
+        "duration": 5.52
+    },
+    {
+        "text": "the confusing menus you see in the D",
+        "start": 3.36,
+        "duration": 4.479
+    },
+    {
+        "text": "Vinci resolve color menu in this video",
+        "start": 5.64,
+        "duration": 3.56
+    },
+    {
+        "text": "I'll show you how to make your footage",
+        "start": 7.839,
+        "duration": 3.561
+    },
+    {
+        "text": "look awesome using only the most",
+        "start": 9.2,
+        "duration": 4.479
+    },
+    {
+        "text": "essential and simple color correction",
+        "start": 11.4,
+        "duration": 4.359
+    },
+    {
+        "text": "sliders because as a beginner you should",
+        "start": 13.679,
+        "duration": 4.36
+    },
+    {
+        "text": "be keeping your workflow simple and not",
+        "start": 15.759,
+        "duration": 4.36
+    },
+    {
+        "text": "learning over complicated features that",
+        "start": 18.039,
+        "duration": 4.16
+    },
+    {
+        "text": "you simply don't need for average",
+        "start": 20.119,
+        "duration": 4.92
+    },
+    {
+        "text": "day-to-day projects like YouTube videos",
+        "start": 22.199,
+        "duration": 5.801
+    },
+    {
+        "text": "okay here I am inside Da Vinci resolve",
+        "start": 25.039,
+        "duration": 5.08
+    },
+    {
+        "text": "this is my timeline and these are the",
+        "start": 28.0,
+        "duration": 3.96
+    },
+    {
+        "text": "clips you just watched what I'm going to",
+        "start": 30.119,
+        "duration": 4.361
+    },
+    {
+        "text": "do next is head over from the edit tab",
+        "start": 31.96,
+        "duration": 4.439
+    },
+    {
+        "text": "to the color Tab and this is where all",
+        "start": 34.48,
+        "duration": 4.84
+    },
+    {
+        "text": "the big scary color wheels and Scopes",
+        "start": 36.399,
+        "duration": 5.84
+    },
+    {
+        "text": "and endless color menus have probably",
+        "start": 39.32,
+        "duration": 5.04
+    },
+    {
+        "text": "turned you off in the past but don't",
+        "start": 42.239,
+        "duration": 4.201
+    },
+    {
+        "text": "worry as a beginner you don't need the",
+        "start": 44.36,
+        "duration": 3.96
+    },
+    {
+        "text": "vast majority of it now the first step",
+        "start": 46.44,
+        "duration": 4.119
+    },
+    {
+        "text": "we're going to take here is selecting",
+        "start": 48.32,
+        "duration": 4.2
+    },
+    {
+        "text": "whether we want our Clips to be color",
+        "start": 50.559,
+        "duration": 4.64
+    },
+    {
+        "text": "graded individually or collectively",
+        "start": 52.52,
+        "duration": 5.199
+    },
+    {
+        "text": "since here on the timeline while I do",
+        "start": 55.199,
+        "duration": 5.16
+    },
+    {
+        "text": "have one source clip I've cut that up",
+        "start": 57.719,
+        "duration": 5.081
+    },
+    {
+        "text": "into multiple sections represented by",
+        "start": 60.359,
+        "duration": 4.721
+    },
+    {
+        "text": "these three thumbnails on the color page",
+        "start": 62.8,
+        "duration": 4.08
+    },
+    {
+        "text": "if you do have a consistent track that",
+        "start": 65.08,
+        "duration": 3.44
+    },
+    {
+        "text": "plays throughout your video like this",
+        "start": 66.88,
+        "duration": 3.879
+    },
+    {
+        "text": "talking to camera clip what I'd suggest",
+        "start": 68.52,
+        "duration": 3.959
+    },
+    {
+        "text": "doing is linking them together through",
+        "start": 70.759,
+        "duration": 4.281
+    },
+    {
+        "text": "something called remote grades and to do",
+        "start": 72.479,
+        "duration": 4.361
+    },
+    {
+        "text": "that all you have to do is right click",
+        "start": 75.04,
+        "duration": 4.399
+    },
+    {
+        "text": "the thumbnail of one of the clips and",
+        "start": 76.84,
+        "duration": 5.76
+    },
+    {
+        "text": "head up to use remote grades you'll see",
+        "start": 79.439,
+        "duration": 5.561
+    },
+    {
+        "text": "that this now popped up this red icon",
+        "start": 82.6,
+        "duration": 4.36
+    },
+    {
+        "text": "here and what that means is whenever we",
+        "start": 85.0,
+        "duration": 5.119
+    },
+    {
+        "text": "make a change to One Clip like this",
+        "start": 86.96,
+        "duration": 5.479
+    },
+    {
+        "text": "you'll see that it applies to all cuts",
+        "start": 90.119,
+        "duration": 4.201
+    },
+    {
+        "text": "on the timeline then we when we head",
+        "start": 92.439,
+        "duration": 4.04
+    },
+    {
+        "text": "back here you'll see them again whereas",
+        "start": 94.32,
+        "duration": 5.479
+    },
+    {
+        "text": "before it was set as using a local grade",
+        "start": 96.479,
+        "duration": 4.881
+    },
+    {
+        "text": "which means all of these clips are",
+        "start": 99.799,
+        "duration": 3.721
+    },
+    {
+        "text": "individual so if you made a big change",
+        "start": 101.36,
+        "duration": 4.32
+    },
+    {
+        "text": "to one it's not going to adjust the",
+        "start": 103.52,
+        "duration": 4.199
+    },
+    {
+        "text": "other clips that came from that same",
+        "start": 105.68,
+        "duration": 4.2
+    },
+    {
+        "text": "Source clip so for any bigger clips that",
+        "start": 107.719,
+        "duration": 3.801
+    },
+    {
+        "text": "you've cut up into lots of pieces on",
+        "start": 109.88,
+        "duration": 3.72
+    },
+    {
+        "text": "your timeline I'd suggest using remote",
+        "start": 111.52,
+        "duration": 4.32
+    },
+    {
+        "text": "grades Again by right clicking and",
+        "start": 113.6,
+        "duration": 4.36
+    },
+    {
+        "text": "choosing remote grades here okay now",
+        "start": 115.84,
+        "duration": 4.48
+    },
+    {
+        "text": "let's color correct and while Advanced",
+        "start": 117.96,
+        "duration": 4.4
+    },
+    {
+        "text": "colorists will use tools like these",
+        "start": 120.32,
+        "duration": 5.399
+    },
+    {
+        "text": "Scopes down here and nodes on nodes on",
+        "start": 122.36,
+        "duration": 5.84
+    },
+    {
+        "text": "nodes there's a whole color science to",
+        "start": 125.719,
+        "duration": 4.24
+    },
+    {
+        "text": "Accurate color correction which you",
+        "start": 128.2,
+        "duration": 3.52
+    },
+    {
+        "text": "don't need to worry about as a beginner",
+        "start": 129.959,
+        "duration": 4.041
+    },
+    {
+        "text": "instead what I'd suggest focusing on is",
+        "start": 131.72,
+        "duration": 4.68
+    },
+    {
+        "text": "creating a look that looks somewhat like",
+        "start": 134.0,
+        "duration": 5.0
+    },
+    {
+        "text": "your scene your person your landscape",
+        "start": 136.4,
+        "duration": 4.36
+    },
+    {
+        "text": "looks like in real life and you can",
+        "start": 139.0,
+        "duration": 4.48
+    },
+    {
+        "text": "normally tell by ey it's not this and",
+        "start": 140.76,
+        "duration": 4.839
+    },
+    {
+        "text": "it's not this it's something like this",
+        "start": 143.48,
+        "duration": 3.92
+    },
+    {
+        "text": "and the way we discover what this look",
+        "start": 145.599,
+        "duration": 3.961
+    },
+    {
+        "text": "is is through doing color correction",
+        "start": 147.4,
+        "duration": 3.839
+    },
+    {
+        "text": "until until the image you're looking at",
+        "start": 149.56,
+        "duration": 4.48
+    },
+    {
+        "text": "looks good without too much contrast",
+        "start": 151.239,
+        "duration": 4.08
+    },
+    {
+        "text": "highlights that aren't too bright",
+        "start": 154.04,
+        "duration": 3.12
+    },
+    {
+        "text": "Shadows that aren't too dark it just",
+        "start": 155.319,
+        "duration": 3.721
+    },
+    {
+        "text": "looks somewhat like it looks in real",
+        "start": 157.16,
+        "duration": 3.68
+    },
+    {
+        "text": "life if not slightly better and the",
+        "start": 159.04,
+        "duration": 3.16
+    },
+    {
+        "text": "place we're going to do this color",
+        "start": 160.84,
+        "duration": 4.319
+    },
+    {
+        "text": "correction is in this window here but",
+        "start": 162.2,
+        "duration": 4.8
+    },
+    {
+        "text": "don't worry we're not going to touch any",
+        "start": 165.159,
+        "duration": 5.401
+    },
+    {
+        "text": "of these wheels or funky dials or RGB",
+        "start": 167.0,
+        "duration": 5.64
+    },
+    {
+        "text": "color numbers all you need to color",
+        "start": 170.56,
+        "duration": 5.2
+    },
+    {
+        "text": "correct as a beginner is this line here",
+        "start": 172.64,
+        "duration": 5.48
+    },
+    {
+        "text": "and this line here between all of these",
+        "start": 175.76,
+        "duration": 4.16
+    },
+    {
+        "text": "settings you should be able to correct",
+        "start": 178.12,
+        "duration": 3.56
+    },
+    {
+        "text": "the vast majority of your shots and get",
+        "start": 179.92,
+        "duration": 3.72
+    },
+    {
+        "text": "them looking great and for many many",
+        "start": 181.68,
+        "duration": 3.68
+    },
+    {
+        "text": "years of color correction I found the",
+        "start": 183.64,
+        "duration": 3.8
+    },
+    {
+        "text": "best approach is breaking it up into two",
+        "start": 185.36,
+        "duration": 4.56
+    },
+    {
+        "text": "steps the first step is adjusting",
+        "start": 187.44,
+        "duration": 5.28
+    },
+    {
+        "text": "exposure so brightness contrast",
+        "start": 189.92,
+        "duration": 4.76
+    },
+    {
+        "text": "highlights and shadows and then the",
+        "start": 192.72,
+        "duration": 4.64
+    },
+    {
+        "text": "second step is color either warmth or",
+        "start": 194.68,
+        "duration": 5.0
+    },
+    {
+        "text": "cool is cool the word it is now",
+        "start": 197.36,
+        "duration": 5.4
+    },
+    {
+        "text": "saturation Vibrance Hue and so on so",
+        "start": 199.68,
+        "duration": 5.639
+    },
+    {
+        "text": "let's follow step one and that is",
+        "start": 202.76,
+        "duration": 4.839
+    },
+    {
+        "text": "exposure and the first place to start",
+        "start": 205.319,
+        "duration": 4.961
+    },
+    {
+        "text": "here is with contrast sometimes Clips",
+        "start": 207.599,
+        "duration": 4.36
+    },
+    {
+        "text": "come out with high contrast out of the",
+        "start": 210.28,
+        "duration": 3.679
+    },
+    {
+        "text": "camera like this one here and other",
+        "start": 211.959,
+        "duration": 3.681
+    },
+    {
+        "text": "times they come out with low contrast",
+        "start": 213.959,
+        "duration": 4.0
+    },
+    {
+        "text": "and need to be fixed so start your color",
+        "start": 215.64,
+        "duration": 4.04
+    },
+    {
+        "text": "correction by moving this slider left",
+        "start": 217.959,
+        "duration": 4.241
+    },
+    {
+        "text": "and right until you find a contrast",
+        "start": 219.68,
+        "duration": 4.88
+    },
+    {
+        "text": "level that looks natural to what your",
+        "start": 222.2,
+        "duration": 4.36
+    },
+    {
+        "text": "scene would look like in real life in",
+        "start": 224.56,
+        "duration": 4.36
+    },
+    {
+        "text": "terms of contrast I like to go left and",
+        "start": 226.56,
+        "duration": 3.959
+    },
+    {
+        "text": "right a couple of times with all these",
+        "start": 228.92,
+        "duration": 3.64
+    },
+    {
+        "text": "settings because color correction really",
+        "start": 230.519,
+        "duration": 4.481
+    },
+    {
+        "text": "is a process of experimentation trying",
+        "start": 232.56,
+        "duration": 4.56
+    },
+    {
+        "text": "all the sliders to the left to the right",
+        "start": 235.0,
+        "duration": 4.159
+    },
+    {
+        "text": "until you find The Sweet Spot on each so",
+        "start": 237.12,
+        "duration": 3.679
+    },
+    {
+        "text": "I'm going to leave my contrast around",
+        "start": 239.159,
+        "duration": 3.241
+    },
+    {
+        "text": "here and the next setting that is",
+        "start": 240.799,
+        "duration": 4.08
+    },
+    {
+        "text": "directly related to contrast is Pivot",
+        "start": 242.4,
+        "duration": 4.479
+    },
+    {
+        "text": "which essentially has to do with which",
+        "start": 244.879,
+        "duration": 4.28
+    },
+    {
+        "text": "parts of your image will get these",
+        "start": 246.879,
+        "duration": 4.401
+    },
+    {
+        "text": "contrast adjustments added will it be",
+        "start": 249.159,
+        "duration": 4.0
+    },
+    {
+        "text": "the highlights the Shadows or somewhere",
+        "start": 251.28,
+        "duration": 4.039
+    },
+    {
+        "text": "in between so if you have a play with",
+        "start": 253.159,
+        "duration": 4.281
+    },
+    {
+        "text": "that you'll see your image get less",
+        "start": 255.319,
+        "duration": 4.721
+    },
+    {
+        "text": "contrasty and more contrasty I like to",
+        "start": 257.44,
+        "duration": 4.44
+    },
+    {
+        "text": "play with both of these settings",
+        "start": 260.04,
+        "duration": 4.28
+    },
+    {
+        "text": "simultaneously until I get the exact",
+        "start": 261.88,
+        "duration": 5.08
+    },
+    {
+        "text": "contrast level that looks good and right",
+        "start": 264.32,
+        "duration": 5.0
+    },
+    {
+        "text": "now it's looking around there okay the",
+        "start": 266.96,
+        "duration": 5.04
+    },
+    {
+        "text": "next exposure setting is down here in",
+        "start": 269.32,
+        "duration": 4.92
+    },
+    {
+        "text": "Shadows and highlights so again with all",
+        "start": 272.0,
+        "duration": 4.84
+    },
+    {
+        "text": "of your shots test these out see if your",
+        "start": 274.24,
+        "duration": 4.72
+    },
+    {
+        "text": "shot needs the Shadows to be boosted",
+        "start": 276.84,
+        "duration": 4.0
+    },
+    {
+        "text": "here I've done an extreme boost all the",
+        "start": 278.96,
+        "duration": 5.04
+    },
+    {
+        "text": "way up that's way too far and all the",
+        "start": 280.84,
+        "duration": 5.84
+    },
+    {
+        "text": "way to the left is way too underexposed",
+        "start": 284.0,
+        "duration": 5.72
+    },
+    {
+        "text": "but I'm thinking somewhere maybe around",
+        "start": 286.68,
+        "duration": 6.12
+    },
+    {
+        "text": "5 will be good and next with highlights",
+        "start": 289.72,
+        "duration": 4.72
+    },
+    {
+        "text": "usually you need to bring highlights",
+        "start": 292.8,
+        "duration": 4.959
+    },
+    {
+        "text": "down because light sources the sun",
+        "start": 294.44,
+        "duration": 5.44
+    },
+    {
+        "text": "anything that is getting hit really high",
+        "start": 297.759,
+        "duration": 4.481
+    },
+    {
+        "text": "by any kind of light is susceptible to",
+        "start": 299.88,
+        "duration": 4.24
+    },
+    {
+        "text": "overexposure where the highlights can",
+        "start": 302.24,
+        "duration": 3.959
+    },
+    {
+        "text": "completely blow out so if you bring your",
+        "start": 304.12,
+        "duration": 4.6
+    },
+    {
+        "text": "highlights down this will minimize any",
+        "start": 306.199,
+        "duration": 4.72
+    },
+    {
+        "text": "overexposure in your brightest areas if",
+        "start": 308.72,
+        "duration": 4.039
+    },
+    {
+        "text": "you take a look here around my face and",
+        "start": 310.919,
+        "duration": 4.321
+    },
+    {
+        "text": "the neon behind me if I turn this right",
+        "start": 312.759,
+        "duration": 4.361
+    },
+    {
+        "text": "up you'll notice that parts of both",
+        "start": 315.24,
+        "duration": 4.44
+    },
+    {
+        "text": "things turned Pure White this is a",
+        "start": 317.12,
+        "duration": 5.24
+    },
+    {
+        "text": "classic case of overblown highlights so",
+        "start": 319.68,
+        "duration": 5.28
+    },
+    {
+        "text": "I like to drag mine right down until all",
+        "start": 322.36,
+        "duration": 4.64
+    },
+    {
+        "text": "the detail is recovered which is",
+        "start": 324.96,
+        "duration": 4.079
+    },
+    {
+        "text": "somewhere around there next it's time to",
+        "start": 327.0,
+        "duration": 4.36
+    },
+    {
+        "text": "move on to color and there are a few",
+        "start": 329.039,
+        "duration": 4.28
+    },
+    {
+        "text": "simple color settings here again you'll",
+        "start": 331.36,
+        "duration": 4.08
+    },
+    {
+        "text": "want to do this by eye when setting all",
+        "start": 333.319,
+        "duration": 4.561
+    },
+    {
+        "text": "of these and the first place I'd usually",
+        "start": 335.44,
+        "duration": 4.44
+    },
+    {
+        "text": "go would be color boost if you've come",
+        "start": 337.88,
+        "duration": 4.12
+    },
+    {
+        "text": "from other editors or maybe even photo",
+        "start": 339.88,
+        "duration": 4.08
+    },
+    {
+        "text": "editors this is essentially the same",
+        "start": 342.0,
+        "duration": 4.199
+    },
+    {
+        "text": "thing as Vibrance the difference between",
+        "start": 343.96,
+        "duration": 5.359
+    },
+    {
+        "text": "Vibrance and saturation is saturation",
+        "start": 346.199,
+        "duration": 5.641
+    },
+    {
+        "text": "will turn up the intensity of the colors",
+        "start": 349.319,
+        "duration": 4.641
+    },
+    {
+        "text": "across the board without discriminating",
+        "start": 351.84,
+        "duration": 3.96
+    },
+    {
+        "text": "so if you have something that's really",
+        "start": 353.96,
+        "duration": 4.04
+    },
+    {
+        "text": "colorful like the neon behind me it's",
+        "start": 355.8,
+        "duration": 4.519
+    },
+    {
+        "text": "going to become way way too too colorful",
+        "start": 358.0,
+        "duration": 4.24
+    },
+    {
+        "text": "because you're turning up the saturation",
+        "start": 360.319,
+        "duration": 4.44
+    },
+    {
+        "text": "equally on all colors whereas Vibrance",
+        "start": 362.24,
+        "duration": 4.959
+    },
+    {
+        "text": "or as Da Vinci calls it color boost this",
+        "start": 364.759,
+        "duration": 4.601
+    },
+    {
+        "text": "will turn up only the colors that aren't",
+        "start": 367.199,
+        "duration": 4.161
+    },
+    {
+        "text": "very saturated and leave the ones that",
+        "start": 369.36,
+        "duration": 4.04
+    },
+    {
+        "text": "already are so here I'm going to drag",
+        "start": 371.36,
+        "duration": 4.32
+    },
+    {
+        "text": "this slider to the right and my less",
+        "start": 373.4,
+        "duration": 3.96
+    },
+    {
+        "text": "colorful areas are becoming more",
+        "start": 375.68,
+        "duration": 4.04
+    },
+    {
+        "text": "colorful now without over intensifying",
+        "start": 377.36,
+        "duration": 5.0
+    },
+    {
+        "text": "the already colorful areas like the neon",
+        "start": 379.72,
+        "duration": 3.759
+    },
+    {
+        "text": "whereas again if you just turn",
+        "start": 382.36,
+        "duration": 3.52
+    },
+    {
+        "text": "saturation up like this suddenly I",
+        "start": 383.479,
+        "duration": 4.601
+    },
+    {
+        "text": "become an Oompa Loompa in an igloo so",
+        "start": 385.88,
+        "duration": 3.84
+    },
+    {
+        "text": "choose a level of color that you",
+        "start": 388.08,
+        "duration": 4.239
+    },
+    {
+        "text": "personally like I like my videos being",
+        "start": 389.72,
+        "duration": 5.0
+    },
+    {
+        "text": "very colorful obviously not overdone I",
+        "start": 392.319,
+        "duration": 4.081
+    },
+    {
+        "text": "don't really want to be an Oompa Loompa",
+        "start": 394.72,
+        "duration": 3.759
+    },
+    {
+        "text": "so I'll always dial it back just a",
+        "start": 396.4,
+        "duration": 4.0
+    },
+    {
+        "text": "little bit however this is also where",
+        "start": 398.479,
+        "duration": 4.041
+    },
+    {
+        "text": "color temperature comes in because",
+        "start": 400.4,
+        "duration": 5.28
+    },
+    {
+        "text": "generally skin tones show up more on the",
+        "start": 402.52,
+        "duration": 5.519
+    },
+    {
+        "text": "warm side so by simply dragging the",
+        "start": 405.68,
+        "duration": 4.84
+    },
+    {
+        "text": "temperature slider slightly to the left",
+        "start": 408.039,
+        "duration": 5.201
+    },
+    {
+        "text": "like so my skin tones are now looking",
+        "start": 410.52,
+        "duration": 4.959
+    },
+    {
+        "text": "much more normal while the background is",
+        "start": 413.24,
+        "duration": 4.48
+    },
+    {
+        "text": "just as colorful as it was before which",
+        "start": 415.479,
+        "duration": 4.12
+    },
+    {
+        "text": "gives me more flexibility to turn the",
+        "start": 417.72,
+        "duration": 3.8
+    },
+    {
+        "text": "color boost up a little bit more making",
+        "start": 419.599,
+        "duration": 4.16
+    },
+    {
+        "text": "all of my nice colors around my frame",
+        "start": 421.52,
+        "duration": 4.16
+    },
+    {
+        "text": "even more colorful without ruining my",
+        "start": 423.759,
+        "duration": 4.12
+    },
+    {
+        "text": "skin tones some other color sliders",
+        "start": 425.68,
+        "duration": 4.4
+    },
+    {
+        "text": "worth mentioning are tint and with this",
+        "start": 427.879,
+        "duration": 4.081
+    },
+    {
+        "text": "one I'd say unless you have a room that",
+        "start": 430.08,
+        "duration": 4.36
+    },
+    {
+        "text": "is really green or pink you should",
+        "start": 431.96,
+        "duration": 4.079
+    },
+    {
+        "text": "probably stay away from this one because",
+        "start": 434.44,
+        "duration": 3.68
+    },
+    {
+        "text": "you don't need it sometimes for example",
+        "start": 436.039,
+        "duration": 4.761
+    },
+    {
+        "text": "my lights in the room are either green",
+        "start": 438.12,
+        "duration": 5.6
+    },
+    {
+        "text": "or my camera is casting a slight magenta",
+        "start": 440.8,
+        "duration": 5.32
+    },
+    {
+        "text": "tone onto my video which is where I'll",
+        "start": 443.72,
+        "duration": 4.4
+    },
+    {
+        "text": "just adjust it left and right a little",
+        "start": 446.12,
+        "duration": 4.84
+    },
+    {
+        "text": "bit so here I brought it down to-4 on",
+        "start": 448.12,
+        "duration": 4.88
+    },
+    {
+        "text": "the green side and that has made my skin",
+        "start": 450.96,
+        "duration": 3.919
+    },
+    {
+        "text": "tones look just a little bit more",
+        "start": 453.0,
+        "duration": 3.599
+    },
+    {
+        "text": "natural but in the vast majority of",
+        "start": 454.879,
+        "duration": 3.561
+    },
+    {
+        "text": "cases you won't need to use the tint",
+        "start": 456.599,
+        "duration": 4.841
+    },
+    {
+        "text": "function the next is Hue and this one is",
+        "start": 458.44,
+        "duration": 4.96
+    },
+    {
+        "text": "really silly I don't even know why they",
+        "start": 461.44,
+        "duration": 4.52
+    },
+    {
+        "text": "included in Da Vinci and what that does",
+        "start": 463.4,
+        "duration": 4.759
+    },
+    {
+        "text": "is it changes the colors universally",
+        "start": 465.96,
+        "duration": 3.76
+    },
+    {
+        "text": "across your entire image so if you want",
+        "start": 468.159,
+        "duration": 3.48
+    },
+    {
+        "text": "to look like a martian then go ahead and",
+        "start": 469.72,
+        "duration": 3.56
+    },
+    {
+        "text": "turn that all the way up if you don't",
+        "start": 471.639,
+        "duration": 3.481
+    },
+    {
+        "text": "though then don't touch the Hue finally",
+        "start": 473.28,
+        "duration": 3.639
+    },
+    {
+        "text": "there's luminance mix and I wouldn't",
+        "start": 475.12,
+        "duration": 3.56
+    },
+    {
+        "text": "bother with this one because it doesn't",
+        "start": 476.919,
+        "duration": 3.68
+    },
+    {
+        "text": "really do a whole lot compared to the",
+        "start": 478.68,
+        "duration": 4.16
+    },
+    {
+        "text": "other sliders now for the exciting part",
+        "start": 480.599,
+        "duration": 3.841
+    },
+    {
+        "text": "so this is what the color grade looks",
+        "start": 482.84,
+        "duration": 3.44
+    },
+    {
+        "text": "like you saw me do it but you've",
+        "start": 484.44,
+        "duration": 3.24
+    },
+    {
+        "text": "probably already forgotten what the",
+        "start": 486.28,
+        "duration": 3.08
+    },
+    {
+        "text": "before looks like well I'm going to",
+        "start": 487.68,
+        "duration": 3.88
+    },
+    {
+        "text": "remind you of that so up the top you'll",
+        "start": 489.36,
+        "duration": 5.0
+    },
+    {
+        "text": "see this colorful red circle that is",
+        "start": 491.56,
+        "duration": 4.96
+    },
+    {
+        "text": "sparkling if you click that that will",
+        "start": 494.36,
+        "duration": 4.2
+    },
+    {
+        "text": "show you your before so you can click it",
+        "start": 496.52,
+        "duration": 4.92
+    },
+    {
+        "text": "on and off to see your before and after",
+        "start": 498.56,
+        "duration": 4.199
+    },
+    {
+        "text": "and this provides a good point of",
+        "start": 501.44,
+        "duration": 3.28
+    },
+    {
+        "text": "reference to see how you might want to",
+        "start": 502.759,
+        "duration": 3.801
+    },
+    {
+        "text": "adjust the grade further the final",
+        "start": 504.72,
+        "duration": 3.72
+    },
+    {
+        "text": "setting here in this super beginner",
+        "start": 506.56,
+        "duration": 4.96
+    },
+    {
+        "text": "friendly color correct menu is mids and",
+        "start": 508.44,
+        "duration": 4.92
+    },
+    {
+        "text": "detail and what this essentially means",
+        "start": 511.52,
+        "duration": 4.079
+    },
+    {
+        "text": "is sharpening so if you drag that all",
+        "start": 513.36,
+        "duration": 3.96
+    },
+    {
+        "text": "the way up it's going to sharpen the",
+        "start": 515.599,
+        "duration": 3.761
+    },
+    {
+        "text": "life out of your images clearly this now",
+        "start": 517.32,
+        "duration": 3.639
+    },
+    {
+        "text": "looks oversharpened that I brought it up",
+        "start": 519.36,
+        "duration": 3.96
+    },
+    {
+        "text": "to 100 but you might want to consider",
+        "start": 520.959,
+        "duration": 5.361
+    },
+    {
+        "text": "dragging it up to between 10 and 20 if",
+        "start": 523.32,
+        "duration": 5.12
+    },
+    {
+        "text": "you have a talking head like I do",
+        "start": 526.32,
+        "duration": 3.519
+    },
+    {
+        "text": "because it will just help sharpen out",
+        "start": 528.44,
+        "duration": 3.519
+    },
+    {
+        "text": "the eyes and details around the face",
+        "start": 529.839,
+        "duration": 4.041
+    },
+    {
+        "text": "without overdoing it now you might be",
+        "start": 531.959,
+        "duration": 3.32
+    },
+    {
+        "text": "thinking well that's all well and good",
+        "start": 533.88,
+        "duration": 3.16
+    },
+    {
+        "text": "if you're making YouTube videos but I",
+        "start": 535.279,
+        "duration": 4.921
+    },
+    {
+        "text": "shoot action or some other kind of video",
+        "start": 537.04,
+        "duration": 4.76
+    },
+    {
+        "text": "will this same approach work with my",
+        "start": 540.2,
+        "duration": 3.639
+    },
+    {
+        "text": "footage I'm glad you asked here I've",
+        "start": 541.8,
+        "duration": 4.56
+    },
+    {
+        "text": "imported in a shot of the Apple Store",
+        "start": 543.839,
+        "duration": 4.921
+    },
+    {
+        "text": "from Singapore that I got on my recent",
+        "start": 546.36,
+        "duration": 4.24
+    },
+    {
+        "text": "trip there how cool is that by the way",
+        "start": 548.76,
+        "duration": 3.56
+    },
+    {
+        "text": "it's literally a floating orb in the",
+        "start": 550.6,
+        "duration": 4.239
+    },
+    {
+        "text": "middle of the harbor anyway yes the same",
+        "start": 552.32,
+        "duration": 4.72
+    },
+    {
+        "text": "process applies so again you'd start",
+        "start": 554.839,
+        "duration": 4.761
+    },
+    {
+        "text": "with your contrast and find a level that",
+        "start": 557.04,
+        "duration": 5.28
+    },
+    {
+        "text": "looks good and natural and gives your",
+        "start": 559.6,
+        "duration": 6.08
+    },
+    {
+        "text": "scene a chance to really pop out and not",
+        "start": 562.32,
+        "duration": 5.24
+    },
+    {
+        "text": "blend in too much with the background",
+        "start": 565.68,
+        "duration": 4.8
+    },
+    {
+        "text": "then adjust the highlights and Shadows",
+        "start": 567.56,
+        "duration": 5.24
+    },
+    {
+        "text": "followed by the color boost to a natural",
+        "start": 570.48,
+        "duration": 4.799
+    },
+    {
+        "text": "level and the temperature to make it",
+        "start": 572.8,
+        "duration": 5.08
+    },
+    {
+        "text": "look the right level of warmth and let's",
+        "start": 575.279,
+        "duration": 6.68
+    },
+    {
+        "text": "take a look before after pretty good so",
+        "start": 577.88,
+        "duration": 6.04
+    },
+    {
+        "text": "yes follow the exact same process",
+        "start": 581.959,
+        "duration": 4.12
+    },
+    {
+        "text": "exposure first followed by colors now",
+        "start": 583.92,
+        "duration": 3.88
+    },
+    {
+        "text": "here's a massive time-saving tip that",
+        "start": 586.079,
+        "duration": 3.561
+    },
+    {
+        "text": "you'll want to make sure you do so if",
+        "start": 587.8,
+        "duration": 4.039
+    },
+    {
+        "text": "you're like me and you shoot the same",
+        "start": 589.64,
+        "duration": 4.16
+    },
+    {
+        "text": "type of video over and over like a",
+        "start": 591.839,
+        "duration": 4.081
+    },
+    {
+        "text": "YouTube video in a similar setting with",
+        "start": 593.8,
+        "duration": 3.84
+    },
+    {
+        "text": "similar lighting you don't want to have",
+        "start": 595.92,
+        "duration": 4.039
+    },
+    {
+        "text": "to color grade your videos every single",
+        "start": 597.64,
+        "duration": 4.199
+    },
+    {
+        "text": "time from scratch especially if you",
+        "start": 599.959,
+        "duration": 4.041
+    },
+    {
+        "text": "grade it one way and you really like it",
+        "start": 601.839,
+        "duration": 3.68
+    },
+    {
+        "text": "and then struggle to replicate it in the",
+        "start": 604.0,
+        "duration": 3.36
+    },
+    {
+        "text": "future instead what you want to do is",
+        "start": 605.519,
+        "duration": 3.801
+    },
+    {
+        "text": "save that color grade so you can apply",
+        "start": 607.36,
+        "duration": 4.08
+    },
+    {
+        "text": "it to your future videos with one click",
+        "start": 609.32,
+        "duration": 3.6
+    },
+    {
+        "text": "and to do that we'll need to create",
+        "start": 611.44,
+        "duration": 3.48
+    },
+    {
+        "text": "what's called a lot so let's say I",
+        "start": 612.92,
+        "duration": 4.2
+    },
+    {
+        "text": "really like this color grade here it",
+        "start": 614.92,
+        "duration": 4.039
+    },
+    {
+        "text": "already knows all the settings I like",
+        "start": 617.12,
+        "duration": 4.0
+    },
+    {
+        "text": "here for my YouTube studio so what I'm",
+        "start": 618.959,
+        "duration": 4.641
+    },
+    {
+        "text": "going to do to save this is right click",
+        "start": 621.12,
+        "duration": 6.04
+    },
+    {
+        "text": "the thumbnail then go up to generate lot",
+        "start": 623.6,
+        "duration": 6.12
+    },
+    {
+        "text": "33. Cube go ahead and save that",
+        "start": 627.16,
+        "duration": 4.32
+    },
+    {
+        "text": "somewhere obvious like your desktop",
+        "start": 629.72,
+        "duration": 3.679
+    },
+    {
+        "text": "since we will be moving it now up the",
+        "start": 631.48,
+        "duration": 5.28
+    },
+    {
+        "text": "top left of Da Vinci click Lots open up",
+        "start": 633.399,
+        "duration": 5.281
+    },
+    {
+        "text": "this side bar here and what we're going",
+        "start": 636.76,
+        "duration": 4.319
+    },
+    {
+        "text": "to do is right click this Luts folder",
+        "start": 638.68,
+        "duration": 4.599
+    },
+    {
+        "text": "and choose reveal in finder this",
+        "start": 641.079,
+        "duration": 3.76
+    },
+    {
+        "text": "essentially shows us where all these",
+        "start": 643.279,
+        "duration": 3.401
+    },
+    {
+        "text": "Luts are being saved for Da Vinci",
+        "start": 644.839,
+        "duration": 4.24
+    },
+    {
+        "text": "resolve and now all you need to do is",
+        "start": 646.68,
+        "duration": 4.12
+    },
+    {
+        "text": "drag your file which is going to be",
+        "start": 649.079,
+        "duration": 4.841
+    },
+    {
+        "text": "called 33 Point Cube over to this L",
+        "start": 650.8,
+        "duration": 5.479
+    },
+    {
+        "text": "folder here you can absolutely rename it",
+        "start": 653.92,
+        "duration": 4.08
+    },
+    {
+        "text": "so I'm going to do that I'll just call",
+        "start": 656.279,
+        "duration": 5.281
+    },
+    {
+        "text": "it YouTube Cube and it's done so now",
+        "start": 658.0,
+        "duration": 5.12
+    },
+    {
+        "text": "back here in D Vinci resolve all you",
+        "start": 661.56,
+        "duration": 3.719
+    },
+    {
+        "text": "need to do is right click this window on",
+        "start": 663.12,
+        "duration": 4.76
+    },
+    {
+        "text": "the left hand side and click refresh and",
+        "start": 665.279,
+        "duration": 4.721
+    },
+    {
+        "text": "right here down the bottom here it is",
+        "start": 667.88,
+        "duration": 4.12
+    },
+    {
+        "text": "and I've now imported another clip just",
+        "start": 670.0,
+        "duration": 3.76
+    },
+    {
+        "text": "as an example so this is a separate",
+        "start": 672.0,
+        "duration": 3.68
+    },
+    {
+        "text": "recording to the original and all I'm",
+        "start": 673.76,
+        "duration": 4.24
+    },
+    {
+        "text": "going to do now is click and drag that",
+        "start": 675.68,
+        "duration": 4.36
+    },
+    {
+        "text": "onto the thumbnail and this has now",
+        "start": 678.0,
+        "duration": 4.04
+    },
+    {
+        "text": "applied my color grade to a brand new",
+        "start": 680.04,
+        "duration": 4.52
+    },
+    {
+        "text": "clip so now every time I go back and",
+        "start": 682.04,
+        "duration": 4.239
+    },
+    {
+        "text": "make a new video with the same",
+        "start": 684.56,
+        "duration": 3.519
+    },
+    {
+        "text": "background I don't need to color grade",
+        "start": 686.279,
+        "duration": 4.081
+    },
+    {
+        "text": "from scratch instead all I'll do is come",
+        "start": 688.079,
+        "duration": 4.921
+    },
+    {
+        "text": "to the color tab find my L and drag it",
+        "start": 690.36,
+        "duration": 4.76
+    },
+    {
+        "text": "on so that's how you color correct indiv",
+        "start": 693.0,
+        "duration": 4.279
+    },
+    {
+        "text": "Vinci resolve the easy way I've been",
+        "start": 695.12,
+        "duration": 4.92
+    },
+    {
+        "text": "editing for 20 years and while I used to",
+        "start": 697.279,
+        "duration": 4.36
+    },
+    {
+        "text": "dig really deep into the color",
+        "start": 700.04,
+        "duration": 4.16
+    },
+    {
+        "text": "correction menus of resolve and I felt",
+        "start": 701.639,
+        "duration": 5.521
+    },
+    {
+        "text": "like such a nerd like I was a cinematic",
+        "start": 704.2,
+        "duration": 5.04
+    },
+    {
+        "text": "Hollywood colorist the truth is as I",
+        "start": 707.16,
+        "duration": 4.08
+    },
+    {
+        "text": "became a content creator I realized I",
+        "start": 709.24,
+        "duration": 3.92
+    },
+    {
+        "text": "just didn't need all of those really",
+        "start": 711.24,
+        "duration": 4.039
+    },
+    {
+        "text": "Advanced tools and all I needed really",
+        "start": 713.16,
+        "duration": 4.16
+    },
+    {
+        "text": "was just the basics of exposure and",
+        "start": 715.279,
+        "duration": 3.961
+    },
+    {
+        "text": "color which meant over time I was able",
+        "start": 717.32,
+        "duration": 3.48
+    },
+    {
+        "text": "able to speed up my workflow",
+        "start": 719.24,
+        "duration": 3.88
+    },
+    {
+        "text": "exponentially and make way more content",
+        "start": 720.8,
+        "duration": 4.12
+    },
+    {
+        "text": "so if you are a beginner I'd really",
+        "start": 723.12,
+        "duration": 3.519
+    },
+    {
+        "text": "advise keeping your color correction",
+        "start": 724.92,
+        "duration": 3.56
+    },
+    {
+        "text": "workflow as simple as possible",
+        "start": 726.639,
+        "duration": 3.721
+    },
+    {
+        "text": "especially in the early days by the way",
+        "start": 728.48,
+        "duration": 3.479
+    },
+    {
+        "text": "as a thanks for watching this video",
+        "start": 730.36,
+        "duration": 3.2
+    },
+    {
+        "text": "right to the end I want to give you a",
+        "start": 731.959,
+        "duration": 3.56
+    },
+    {
+        "text": "little gift if you followed the link",
+        "start": 733.56,
+        "duration": 3.92
+    },
+    {
+        "text": "below you can download my da Vinci",
+        "start": 735.519,
+        "duration": 4.361
+    },
+    {
+        "text": "resolve editing shortcuts that will show",
+        "start": 737.48,
+        "duration": 4.159
+    },
+    {
+        "text": "you how to speed edit in Da Vinci",
+        "start": 739.88,
+        "duration": 4.12
+    },
+    {
+        "text": "resolve which will save you so much more",
+        "start": 741.639,
+        "duration": 4.121
+    },
+    {
+        "text": "time on top of the time you've already",
+        "start": 744.0,
+        "duration": 3.68
+    },
+    {
+        "text": "saved spending all that time in color",
+        "start": 745.76,
+        "duration": 4.079
+    },
+    {
+        "text": "correction these are keyboard shortcuts",
+        "start": 747.68,
+        "duration": 4.0
+    },
+    {
+        "text": "for editing on the edit page so",
+        "start": 749.839,
+        "duration": 3.321
+    },
+    {
+        "text": "definitely download them and take",
+        "start": 751.68,
+        "duration": 3.159
+    },
+    {
+        "text": "advantage and now that you know color",
+        "start": 753.16,
+        "duration": 3.56
+    },
+    {
+        "text": "correction you'll probably want to learn",
+        "start": 754.839,
+        "duration": 3.961
+    },
+    {
+        "text": "what the best cuts are for editing a",
+        "start": 756.72,
+        "duration": 4.84
+    },
+    {
+        "text": "video in a stylish way in this video",
+        "start": 758.8,
+        "duration": 5.24
+    },
+    {
+        "text": "here I share my top 10 cuts that I",
+        "start": 761.56,
+        "duration": 5.519
+    },
+    {
+        "text": "recommend all editors use to get stylish",
+        "start": 764.04,
+        "duration": 7.159
+    },
+    {
+        "text": "looking videos every single time",
+        "start": 767.079,
+        "duration": 4.12
+    }
+]
